@@ -1,6 +1,6 @@
 ---
-title: "RE:GOV"
-summary: "An AI agent that crawls a legacy Philippine government website and rebuilds it as an accessible concept site on the BetterGov.ph Kapwa design system, with a migration report."
+title: 'RE:GOV'
+summary: 'An AI agent that crawls a legacy Philippine government website and rebuilds it as an accessible concept site on the BetterGov.ph Kapwa design system, with a migration report.'
 description: |
   RE:GOV (Reimagine Government) takes the address of any .gov.ph or .edu.ph website and, in a few minutes, produces a modern concept of that site built on Kapwa, the BetterGov.ph design system. The agent crawls the public pages politely, falls back to the Wayback Machine when a site is behind bot protection, reads every page with Meta Muse Spark into a typed content model, segments the old homepage with SAM 3.1 to extract the agency seal, and paints an identity band with Muse Image from a brief about the real place and mandate.
 
@@ -9,35 +9,35 @@ description: |
   Every output is an unofficial concept for demonstration and discussion. It is marked as such on every page and in its metadata, and it is not operated by, endorsed by, or affiliated with any agency. RE:GOV is a solo entry to the Meta Global AI Developer Hackathon 2026 (Indie track).
 
 # Project URLs
-repository: "https://github.com/rockyru/regov"
-website: "https://regov.app"
-demo: "https://regov.app/showcase"
+repository: 'https://github.com/rockyru/regov'
+website: 'https://regov.app'
+demo: 'https://regov.app/showcase'
 
 # Project Details
-license: "MIT"
-status: "beta"
-dateAdded: "2026-10-27"
+license: 'MIT'
+status: 'beta'
+dateAdded: '2026-10-27'
 
 # People
 maintainers:
-  - "rockyru"
+  - 'rockyru'
 
 # Categorization
 sectors:
-  - "Government"
-  - "Technology"
-  - "Education"
+  - 'Government'
+  - 'Technology'
+  - 'Education'
 
 tags:
-  - "web-app"
-  - "ai-agent"
-  - "civic-tech"
-  - "accessibility"
-  - "design-system"
-  - "kapwa"
-  - "government-websites"
-  - "nextjs"
-  - "typescript"
+  - 'web-app'
+  - 'ai-agent'
+  - 'civic-tech'
+  - 'accessibility'
+  - 'design-system'
+  - 'kapwa'
+  - 'government-websites'
+  - 'nextjs'
+  - 'typescript'
 
 # Social Impact
 impact: |
